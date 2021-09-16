@@ -5,7 +5,7 @@
 
 #daftar-siswa :last-child {background-color: #F87171;}
 
-p:hover {background-color: #E5E7EB;
+#daftar-siswa>p:hover {background-color: #E5E7EB;
 }
 
 
